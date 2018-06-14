@@ -8,5 +8,7 @@
 Запускаем GitShell, печатаем:
 
 git clone https://github.com/lagytenko/123
+
 composer update
+
 php convert.php
