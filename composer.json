@@ -1,0 +1,14 @@
+{
+    "name": "mbry/dgdattoxlsx",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mbry"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "common/common.php"
+        ]
+    }
+}
